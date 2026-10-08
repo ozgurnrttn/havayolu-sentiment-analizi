@@ -1,0 +1,6 @@
+data/
+etiket/girdi/
+etiket/cikti/
+etiket/anahtar.csv
+__pycache__/
+*.log

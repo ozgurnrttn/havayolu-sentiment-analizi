@@ -1,0 +1,53 @@
+{
+  "adimlar": [
+    {
+      "adim": "Toplanan yorum",
+      "yorum": 13151
+    },
+    {
+      "adim": "Tekrarlar atıldı",
+      "yorum": 13126
+    },
+    {
+      "adim": "Türkçe olanlar",
+      "yorum": 9614
+    },
+    {
+      "adim": "Markayla ilgisiz videolar çıkarıldı",
+      "yorum": 8760
+    },
+    {
+      "adim": "Yanıtlar çıkarıldı (analiz kümesi)",
+      "yorum": 6659
+    }
+  ],
+  "dil": {
+    "tr": 9614,
+    "en": 1904,
+    "bos": 758,
+    "az": 217,
+    "id": 166,
+    "de": 91,
+    "nl": 78,
+    "es": 67,
+    "ru": 58,
+    "it": 53,
+    "fr": 40,
+    "pt": 37,
+    "ar": 21,
+    "?": 17,
+    "fa": 5
+  },
+  "video": {
+    "bulunan": 115,
+    "yorumsuz": 7,
+    "tur": {
+      "resmi": 39,
+      "ucus": 30,
+      "haber": 27,
+      "kaza": 11,
+      "alakasiz": 8
+    },
+    "analizde": 94
+  }
+}

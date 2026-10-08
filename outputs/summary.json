@@ -1,0 +1,704 @@
+{
+  "adimlar": [
+    {
+      "adim": "Toplanan yorum",
+      "yorum": 13151
+    },
+    {
+      "adim": "Tekrarlar atıldı",
+      "yorum": 13126
+    },
+    {
+      "adim": "Türkçe olanlar",
+      "yorum": 9614
+    },
+    {
+      "adim": "Markayla ilgisiz videolar çıkarıldı",
+      "yorum": 8760
+    },
+    {
+      "adim": "Yanıtlar çıkarıldı (analiz kümesi)",
+      "yorum": 6659
+    }
+  ],
+  "dil": {
+    "tr": 9614,
+    "en": 1904,
+    "bos": 758,
+    "az": 217,
+    "id": 166,
+    "de": 91,
+    "nl": 78,
+    "es": 67,
+    "ru": 58,
+    "it": 53,
+    "fr": 40,
+    "pt": 37,
+    "ar": 21,
+    "?": 17,
+    "fa": 5
+  },
+  "video": {
+    "bulunan": 115,
+    "yorumsuz": 7,
+    "tur": {
+      "resmi": 39,
+      "ucus": 30,
+      "haber": 27,
+      "kaza": 11,
+      "alakasiz": 8
+    },
+    "analizde": 94
+  },
+  "genel": {
+    "yorum": 6659,
+    "video": 94,
+    "marka_yorum": {
+      "THY": 3992,
+      "Pegasus": 2043,
+      "AJet": 624
+    },
+    "marka_video": {
+      "THY": 36,
+      "Pegasus": 31,
+      "AJet": 27
+    },
+    "tur_yorum": {
+      "resmi": 3358,
+      "haber": 1337,
+      "ucus": 488,
+      "kaza": 1476
+    },
+    "marka_tur": {
+      "THY": {
+        "resmi": 2901,
+        "haber": 380,
+        "ucus": 209,
+        "kaza": 502
+      },
+      "Pegasus": {
+        "resmi": 375,
+        "haber": 596,
+        "ucus": 98,
+        "kaza": 974
+      },
+      "AJet": {
+        "resmi": 82,
+        "haber": 361,
+        "ucus": 181,
+        "kaza": 0
+      }
+    },
+    "tarih": [
+      "2013-10-06",
+      "2026-10-06"
+    ],
+    "son_iki_yil": 47.7
+  },
+  "tutarlilik": {
+    "n": 400,
+    "duygu": {
+      "uyum": 96.5,
+      "kappa": 0.95
+    },
+    "hedef": {
+      "uyum": 95.5,
+      "kappa": 0.93
+    },
+    "konu": {
+      "uyum": 96.5,
+      "kappa": 0.93
+    },
+    "ucu_birden": 91.2
+  },
+  "hedef": {
+    "hepsi": {
+      "marka": 33.4,
+      "video": 35.1,
+      "diger": 31.6
+    },
+    "n": {
+      "marka": 2222,
+      "video": 2335,
+      "diger": 2102
+    },
+    "tur": {
+      "resmi": {
+        "marka": 26.6,
+        "video": 43.7,
+        "diger": 29.6
+      },
+      "haber": {
+        "marka": 54.7,
+        "video": 26.9,
+        "diger": 18.5
+      },
+      "ucus": {
+        "marka": 29.1,
+        "video": 29.3,
+        "diger": 41.6
+      },
+      "kaza": {
+        "marka": 30.8,
+        "video": 24.7,
+        "diger": 44.5
+      }
+    },
+    "marka": {
+      "THY": {
+        "marka": 25.0,
+        "video": 41.8,
+        "diger": 33.2
+      },
+      "Pegasus": {
+        "marka": 40.3,
+        "video": 26.8,
+        "diger": 32.9
+      },
+      "AJet": {
+        "marka": 64.3,
+        "video": 18.9,
+        "diger": 16.8
+      }
+    }
+  },
+  "hedef_duygu": {
+    "marka": {
+      "olumlu": 34.9,
+      "notr": 15.4,
+      "olumsuz": 49.6
+    },
+    "video": {
+      "olumlu": 64.7,
+      "notr": 23.0,
+      "olumsuz": 12.2
+    },
+    "diger": {
+      "olumlu": 16.0,
+      "notr": 61.5,
+      "olumsuz": 22.5
+    }
+  },
+  "saf_hedefli": {
+    "THY": {
+      "saf": {
+        "n": 3992,
+        "olumlu": 50.7,
+        "olumsuz": 19.6
+      },
+      "hedefli": {
+        "n": 998,
+        "olumlu": 55.6,
+        "olumsuz": 36.4,
+        "notr": 8.0
+      },
+      "aralik": {
+        "n": 998,
+        "video": 36,
+        "oran": 36.4,
+        "alt": 24.8,
+        "ust": 49.7
+      }
+    },
+    "Pegasus": {
+      "saf": {
+        "n": 2043,
+        "olumlu": 22.1,
+        "olumsuz": 38.4
+      },
+      "hedefli": {
+        "n": 823,
+        "olumlu": 17.3,
+        "olumsuz": 59.7,
+        "notr": 23.1
+      },
+      "aralik": {
+        "n": 823,
+        "video": 28,
+        "oran": 59.7,
+        "alt": 43.3,
+        "ust": 72.7
+      }
+    },
+    "AJet": {
+      "saf": {
+        "n": 624,
+        "olumlu": 23.6,
+        "olumsuz": 47.4
+      },
+      "hedefli": {
+        "n": 401,
+        "olumlu": 19.7,
+        "olumsuz": 62.1,
+        "notr": 18.2
+      },
+      "aralik": {
+        "n": 401,
+        "video": 24,
+        "oran": 62.1,
+        "alt": 45.3,
+        "ust": 72.1
+      }
+    }
+  },
+  "tur_olumsuz": {
+    "resmi": {
+      "n": 894,
+      "video": 34,
+      "oran": 25.5,
+      "alt": 19.4,
+      "ust": 33.7
+    },
+    "haber": {
+      "n": 731,
+      "video": 22,
+      "oran": 61.8,
+      "alt": 51.0,
+      "ust": 69.7
+    },
+    "ucus": {
+      "n": 142,
+      "video": 21,
+      "oran": 33.1,
+      "alt": 20.0,
+      "ust": 51.0
+    },
+    "kaza": {
+      "n": 455,
+      "video": 11,
+      "oran": 82.6,
+      "alt": 77.7,
+      "ust": 86.8
+    }
+  },
+  "marka_tur": {
+    "THY": {
+      "resmi": {
+        "n": 649,
+        "video": 21,
+        "oran": 21.1,
+        "alt": 15.7,
+        "ust": 27.6
+      },
+      "haber": {
+        "n": 165,
+        "video": 5,
+        "oran": 52.7,
+        "alt": 25.2,
+        "ust": 75.5
+      },
+      "ucus": {
+        "n": 38,
+        "video": 5,
+        "oran": 26.3,
+        "alt": 10.7,
+        "ust": 80.0
+      },
+      "kaza": {
+        "n": 146,
+        "video": 5,
+        "oran": 88.4,
+        "alt": 82.0,
+        "ust": 92.9
+      }
+    },
+    "Pegasus": {
+      "resmi": {
+        "n": 191,
+        "video": 9,
+        "oran": 23.0,
+        "alt": 17.5,
+        "ust": 53.6
+      },
+      "haber": {
+        "n": 308,
+        "video": 9,
+        "oran": 63.0,
+        "alt": 50.5,
+        "ust": 74.4
+      },
+      "ucus": {
+        "n": 15,
+        "video": 4
+      },
+      "kaza": {
+        "n": 309,
+        "video": 6,
+        "oran": 79.9,
+        "alt": 72.8,
+        "ust": 84.5
+      }
+    },
+    "AJet": {
+      "resmi": {
+        "n": 54,
+        "video": 4,
+        "oran": 87.0,
+        "alt": 72.0,
+        "ust": 95.0
+      },
+      "haber": {
+        "n": 258,
+        "video": 8,
+        "oran": 66.3,
+        "alt": 47.2,
+        "ust": 78.9
+      },
+      "ucus": {
+        "n": 89,
+        "video": 12,
+        "oran": 34.8,
+        "alt": 18.9,
+        "ust": 56.1
+      },
+      "kaza": {
+        "n": 0,
+        "video": 0
+      }
+    }
+  },
+  "haber_fark": {
+    "Pegasus": {
+      "fark": 10.3,
+      "alt": -16.9,
+      "ust": 40.0
+    },
+    "AJet": {
+      "fark": 13.6,
+      "alt": -13.0,
+      "ust": 45.2
+    }
+  },
+  "standart": {
+    "Pegasus": {
+      "turler": [
+        "resmi",
+        "haber",
+        "kaza"
+      ],
+      "ham": 59.7,
+      "ham_ortak": 60.0,
+      "standart": 38.6,
+      "alt": 33.8,
+      "ust": 58.9,
+      "thy": 36.8,
+      "thy_n": 960
+    },
+    "AJet": {
+      "turler": [
+        "resmi",
+        "haber",
+        "ucus"
+      ],
+      "ham": 62.1,
+      "ham_ortak": 62.1,
+      "standart": 80.7,
+      "alt": 68.8,
+      "ust": 87.2,
+      "thy": 27.5,
+      "thy_n": 852
+    }
+  },
+  "tur_karisimi": {
+    "THY": {
+      "resmi": 65.0,
+      "haber": 16.5,
+      "ucus": 3.8,
+      "kaza": 14.6
+    },
+    "Pegasus": {
+      "resmi": 23.2,
+      "haber": 37.4,
+      "ucus": 1.8,
+      "kaza": 37.5
+    },
+    "AJet": {
+      "resmi": 13.5,
+      "haber": 64.3,
+      "ucus": 22.2,
+      "kaza": 0.0
+    }
+  },
+  "yogunlasma": {
+    "THY": 20.2,
+    "Pegasus": 39.4,
+    "AJet": 55.4
+  },
+  "konu": {
+    "hepsi": [
+      {
+        "konu": "genel",
+        "n": 735,
+        "pay": 33.1,
+        "olumsuz": 17.0,
+        "olumlu": 79.3
+      },
+      {
+        "konu": "guvenlik",
+        "n": 528,
+        "pay": 23.8,
+        "olumsuz": 72.3,
+        "olumlu": 14.2
+      },
+      {
+        "konu": "yonetim",
+        "n": 441,
+        "pay": 19.8,
+        "olumsuz": 61.7,
+        "olumlu": 11.3
+      },
+      {
+        "konu": "fiyat",
+        "n": 187,
+        "pay": 8.4,
+        "olumsuz": 57.2,
+        "olumlu": 11.8
+      },
+      {
+        "konu": "operasyon",
+        "n": 116,
+        "pay": 5.2,
+        "olumsuz": 76.7,
+        "olumlu": 1.7
+      },
+      {
+        "konu": "hizmet",
+        "n": 108,
+        "pay": 4.9,
+        "olumsuz": 74.1,
+        "olumlu": 16.7
+      },
+      {
+        "konu": "konfor",
+        "n": 107,
+        "pay": 4.8,
+        "olumsuz": 44.9,
+        "olumlu": 24.3
+      }
+    ],
+    "marka": {
+      "THY": {
+        "genel": {
+          "n": 519,
+          "pay": 52.0,
+          "olumsuz_pay": 5.2
+        },
+        "guvenlik": {
+          "n": 183,
+          "pay": 18.3,
+          "olumsuz_pay": 38.0
+        },
+        "yonetim": {
+          "n": 181,
+          "pay": 18.1,
+          "olumsuz_pay": 35.8
+        },
+        "fiyat": {
+          "n": 55,
+          "pay": 5.5,
+          "olumsuz_pay": 12.1
+        },
+        "operasyon": {
+          "n": 14,
+          "pay": 1.4,
+          "olumsuz_pay": 3.3
+        },
+        "hizmet": {
+          "n": 28,
+          "pay": 2.8,
+          "olumsuz_pay": 3.6
+        },
+        "konfor": {
+          "n": 18,
+          "pay": 1.8,
+          "olumsuz_pay": 1.9
+        }
+      },
+      "Pegasus": {
+        "genel": {
+          "n": 138,
+          "pay": 16.8,
+          "olumsuz_pay": 11.8
+        },
+        "guvenlik": {
+          "n": 275,
+          "pay": 33.4,
+          "olumsuz_pay": 44.8
+        },
+        "yonetim": {
+          "n": 147,
+          "pay": 17.9,
+          "olumsuz_pay": 15.1
+        },
+        "fiyat": {
+          "n": 113,
+          "pay": 13.7,
+          "olumsuz_pay": 9.6
+        },
+        "operasyon": {
+          "n": 43,
+          "pay": 5.2,
+          "olumsuz_pay": 4.9
+        },
+        "hizmet": {
+          "n": 37,
+          "pay": 4.5,
+          "olumsuz_pay": 6.9
+        },
+        "konfor": {
+          "n": 70,
+          "pay": 8.5,
+          "olumsuz_pay": 6.9
+        }
+      },
+      "AJet": {
+        "genel": {
+          "n": 78,
+          "pay": 19.5,
+          "olumsuz_pay": 19.3
+        },
+        "guvenlik": {
+          "n": 70,
+          "pay": 17.5,
+          "olumsuz_pay": 9.6
+        },
+        "yonetim": {
+          "n": 113,
+          "pay": 28.2,
+          "olumsuz_pay": 27.3
+        },
+        "fiyat": {
+          "n": 19,
+          "pay": 4.7,
+          "olumsuz_pay": 6.4
+        },
+        "operasyon": {
+          "n": 59,
+          "pay": 14.7,
+          "olumsuz_pay": 21.3
+        },
+        "hizmet": {
+          "n": 43,
+          "pay": 10.7,
+          "olumsuz_pay": 13.3
+        },
+        "konfor": {
+          "n": 19,
+          "pay": 4.7,
+          "olumsuz_pay": 2.8
+        }
+      }
+    }
+  },
+  "begeni": {
+    "olumlu": {
+      "ortalama": 5.5,
+      "en_az_bir": 50.4
+    },
+    "notr": {
+      "ortalama": 2.1,
+      "en_az_bir": 44.0
+    },
+    "olumsuz": {
+      "ortalama": 3.6,
+      "en_az_bir": 46.2
+    }
+  },
+  "model": {
+    "duygu": {
+      "cogunluk": {
+        "dogruluk": 39.4,
+        "makro_f1": 0.188
+      },
+      "model": {
+        "dogruluk": 71.3,
+        "makro_f1": 0.705
+      },
+      "model_tur": {
+        "dogruluk": 71.3,
+        "makro_f1": 0.704
+      },
+      "model_rastgele": {
+        "dogruluk": 74.1,
+        "makro_f1": 0.734
+      },
+      "sozluk": {
+        "dogruluk": 51.4,
+        "makro_f1": 0.479
+      }
+    },
+    "hedef": {
+      "cogunluk": {
+        "dogruluk": 35.1,
+        "makro_f1": 0.173
+      },
+      "model": {
+        "dogruluk": 69.5,
+        "makro_f1": 0.694
+      },
+      "model_tur": {
+        "dogruluk": 69.4,
+        "makro_f1": 0.693
+      },
+      "model_rastgele": {
+        "dogruluk": 73.5,
+        "makro_f1": 0.734
+      }
+    },
+    "egri": [
+      {
+        "n": 250,
+        "duygu": 0.57,
+        "hedef": 0.57
+      },
+      {
+        "n": 500,
+        "duygu": 0.624,
+        "hedef": 0.59
+      },
+      {
+        "n": 1000,
+        "duygu": 0.649,
+        "hedef": 0.634
+      },
+      {
+        "n": 2000,
+        "duygu": 0.673,
+        "hedef": 0.65
+      },
+      {
+        "n": 4000,
+        "duygu": 0.694,
+        "hedef": 0.685
+      },
+      {
+        "n": 5327,
+        "duygu": 0.705,
+        "hedef": 0.694
+      }
+    ],
+    "toplam": {
+      "THY": {
+        "etiket": 36.4,
+        "model": 35.5,
+        "etiket_n": 998,
+        "model_n": 1119,
+        "sozluk_saf": 9.7
+      },
+      "Pegasus": {
+        "etiket": 59.7,
+        "model": 64.5,
+        "etiket_n": 823,
+        "model_n": 755,
+        "sozluk_saf": 17.4
+      },
+      "AJet": {
+        "etiket": 62.1,
+        "model": 62.8,
+        "etiket_n": 401,
+        "model_n": 352,
+        "sozluk_saf": 20.5
+      }
+    }
+  }
+}
